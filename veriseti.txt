@@ -1,0 +1,69 @@
+# Sosyal Ağ Veri Seti
+
+## Kullanıcılar
+101, Ahmet
+102, Mehmet
+103, Ayşe
+104, Fatma
+105, Ali
+106, Zeynep
+107, Mustafa
+108, Emine
+109, Hasan
+110, Hüseyin
+
+## Arkadaşlık İlişkileri
+101-102
+101-103
+101-107
+102-104
+102-108
+103-104
+103-105
+104-105
+104-106
+105-109
+106-110
+107-108
+108-109
+109-110
+
+## Kullanıcı Özellikleri
+101, 25, İstanbul, Mühendis
+102, 30, Ankara, Doktor
+103, 22, İzmir, Öğrenci
+104, 35, Bursa, Öğretmen
+105, 28, İstanbul, Avukat
+106, 33, Ankara, Mimar
+107, 26, İzmir, Mühendis
+108, 31, Bursa, Doktor
+109, 27, İstanbul, Müzisyen
+110, 29, Ankara, Tasarımcı
+
+## İlgi Alanları
+101: Teknoloji, Spor, Kitap
+102: Sağlık, Müzik, Seyahat
+103: Eğitim, Film, Sanat
+104: Kitap, Doğa, Eğitim
+105: Hukuk, Spor, Teknoloji
+106: Mimari, Sanat, Teknoloji
+107: Bilgisayar, Müzik, Spor
+108: Sağlık, Eğitim, Kitap
+109: Müzik, Sanat, Seyahat
+110: Tasarım, Film, Teknoloji
+
+## Etkileşimler
+101-102: 15
+101-103: 8
+101-107: 12
+102-104: 5
+102-108: 9
+103-104: 7
+103-105: 11
+104-105: 6
+104-106: 10
+105-109: 14
+106-110: 13
+107-108: 8
+108-109: 7
+109-110: 16
